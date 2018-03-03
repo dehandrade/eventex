@@ -2,10 +2,6 @@
 
 Sistemas de Eventos encomendado pela Morena.
 
-[![Build Status](https://travis-ci.org/dehandrade/wttd.svg?branch=master)](https://travis-ci.org/dehandrade/wttd)
-[![Code Health](https://landscape.io/github/dehandrade/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/dehandrade/wttd/master)
-
-
 ## Como desenvolver?
 
 1. Clone o repositório.
@@ -16,7 +12,7 @@ Sistemas de Eventos encomendado pela Morena.
 6. Execute os testes.
 
 ```console
-git clone git@github.com:dehandrade/wttd.git wttd
+git clone https://github.com/dehandrade/eventex.git wttd
 cd wttd
 python -m venv .wttd
 source .wttd/bin/activate
